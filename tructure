@@ -1,0 +1,49 @@
+[33mcommit 0a52ebe86e3e104d194d13f38abbb401d6e280d0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 30c6b02 83d7330
+Author: SCOTTGeek-dev <ham.youness@gmail.com>
+Date:   Sat Mar 16 23:25:24 2024 +0000
+
+    merge commit
+
+[33mcommit 30c6b020871a1404e63551fec7eccc91e9f4d310[m
+Author: SCOTTGeek-dev <ham.youness@gmail.com>
+Date:   Sat Mar 16 23:22:29 2024 +0000
+
+    changed title
+
+[33mcommit 83d733045be3712834d7fbaefb7dfe16ffde3984[m[33m ([m[1;32mfeature-restructure[m[33m)[m
+Author: SCOTTGeek-dev <ham.youness@gmail.com>
+Date:   Sat Mar 16 23:20:31 2024 +0000
+
+    added links and restructured page
+
+[33mcommit 037953706978849a64427be16e16b590d3b14706[m
+Merge: d583cea 4b527a8
+Author: SCOTTGeek-dev <ham.youness@gmail.com>
+Date:   Sat Mar 16 23:13:52 2024 +0000
+
+    Merge branch 'feature-restructure'
+
+[33mcommit d583ceac718961c3d364c3e158163775efa6ecca[m
+Author: SCOTTGeek-dev <ham.youness@gmail.com>
+Date:   Sat Mar 16 23:11:07 2024 +0000
+
+    changed title
+
+[33mcommit 4b527a8ac0cadc1c93f85114f16c695e9c47988b[m
+Author: SCOTTGeek-dev <ham.youness@gmail.com>
+Date:   Sat Mar 16 23:09:13 2024 +0000
+
+    added links & restructured page
+
+[33mcommit a1310511ba4be5184f88fd7c9db2740301e11555[m
+Author: SCOTTGeek-dev <ham.youness@gmail.com>
+Date:   Sat Mar 16 22:50:37 2024 +0000
+
+    adde logo and styling
+
+[33mcommit 053291a3f3a5f4cf1d26c99aeb01d38a20b509ab[m
+Author: SCOTTGeek-dev <ham.youness@gmail.com>
+Date:   Sat Mar 16 18:25:29 2024 +0000
+
+    initial commit
